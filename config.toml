@@ -12,9 +12,7 @@ build-mode = "both"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+direct-dlurl = "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=10634849&key=741ff2ffa2774ff9d6601e885c3a4eef2687af82&forcebaseapk=true"
 
 [Music]
 enabled = false
